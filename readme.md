@@ -43,7 +43,6 @@ CTF{....}
 ```
 
 ---
-happy hacking
 
 
 Happy hacking 🚀
